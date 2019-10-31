@@ -18,7 +18,7 @@
     "express": "^4.17.0",
     "http-proxy-middleware": "^0.19.1",
     "jquery": "^3.4.1",
-    "mongoose": "^5.5.9",
+    "mongoose": "^5.7.5",
     "next": "^5.1.0",
     "next-redux-wrapper": "^3.0.0-alpha.2",
     "popper.js": "^1.15.0",
